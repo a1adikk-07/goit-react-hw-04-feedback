@@ -1,0 +1,14 @@
+.section {
+  /* width: 800px; */
+  border-radius: 20px;
+  background-color: chocolate;
+  padding: 11px 25px;
+  margin: 10px 65px;
+}
+
+.sectionTitle {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(236, 211, 209);
+  font-size: 36px;
+  font-weight: 100;
+}

@@ -1,0 +1,11 @@
+.feedbackBtn {
+  width: 180px;
+  font-size: 20px;
+  font-weight: 200;
+  padding: 10px;
+  border: none;
+  border-radius: 25px;
+  color: #dbb8b8;
+  background-color: saddlebrown;
+  margin-left: 5px;
+}
